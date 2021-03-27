@@ -20,10 +20,10 @@
     
 >其他参数:
 
-* appid  (d389533ac930c1dd8ae46cf5b8258f13daa32a96255364f5a45c53255cac885778620efcb0d56c5ea4484db936cc9c01d5dc1cb7513d14645b44bed6abae9aa2e63efa661783c92d7c8e4c1f7bd83c50 )unicom_appid
+* appid  ( )unicom_appid
 
-* user  ( 13036587357)secrets.unicom_user
+* user  ()secrets.unicom_user
 
-* password (971219)secrets.unicom_password
+* password ()secrets.unicom_password
 
 > 填完参数后action选择"部署到云函数"即可
